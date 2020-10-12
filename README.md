@@ -1,6 +1,6 @@
 # hello-world
 My first repository
 
-Hi!
+Hi,
 
-This is Tomislav. I just started MS in Data Science program at Columbia and I'm starting to learn GitHub.
+This is Tomislav! I just started M.S. in Data Science program at Columbia University, and I'm starting to learn GitHub.
